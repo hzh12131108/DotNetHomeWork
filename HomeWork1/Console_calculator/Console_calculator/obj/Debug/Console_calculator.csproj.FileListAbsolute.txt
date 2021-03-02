@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Console_calculator\Console_calculator\bin\Debug\Console_calculator.exe.config
+C:\Users\Administrator\source\repos\Console_calculator\Console_calculator\bin\Debug\Console_calculator.exe
+C:\Users\Administrator\source\repos\Console_calculator\Console_calculator\bin\Debug\Console_calculator.pdb
+C:\Users\Administrator\source\repos\Console_calculator\Console_calculator\obj\Debug\Console_calculator.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Console_calculator\Console_calculator\obj\Debug\Console_calculator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Console_calculator\Console_calculator\obj\Debug\Console_calculator.exe
+C:\Users\Administrator\source\repos\Console_calculator\Console_calculator\obj\Debug\Console_calculator.pdb
